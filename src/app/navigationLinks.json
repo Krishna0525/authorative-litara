@@ -1310,14 +1310,14 @@
             "605 - Revenue Recognition": {
                 "15 - Products": [
                     {
-                        "title": "",
-                        "pageName": ""
+                        "title": "25 - Recognition",
+                        "pageName": "6_1_1_1.html"
                     }
                 ],
                 "35 - Construction-Type and Production-Type Contracts": [
                     {
-                        "title": "",
-                        "pageName": ""
+                        "title": "25 - Revenue Recognition",
+                        "pageName": "6_1_2_1.html"
                     }
                 ]
             },
@@ -1454,8 +1454,8 @@
             "820 - Fair Value Measurement": {
                 "10 - Overall": [
                     {
-                        "title": "",
-                        "pageName": ""
+                        "title": "50 - Disclosure",
+                        "pageName": "8_3_1_1.html"
                     }
                 ]
             },

@@ -2,9 +2,9 @@
   <input type="text" [(ngModel)]="getSearchValue" />
   <button (click)="searchNow()">search</button>
   <hr />
-  <div *ngIf="!mainActivate">
+  <div *ngIf="mainActivate">
     iuhi iyeityie ieyti eyityie yiyetie uytieutyi uytie uytieyti eyieyti
   </div>
-  <div *ngIf="!searchActivate" [innerHTML]="htmlData">
+  <div *ngIf="searchActivate" [innerHTML]="htmlData">
   </div>
 </div>
