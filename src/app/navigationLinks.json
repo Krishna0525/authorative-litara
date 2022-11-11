@@ -3,112 +3,237 @@
         "U.S Auditing Standards AICPA (Clarified)": {
             "AU-C Sections 200-299 — General Principles and Responsibilities": [
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C Sections 200-299 — General Principles and Responsibilities"
+                    ],
                     "title": "AU-C Section 210 — Terms of Engagement",
                     "pageName": "AU_CSection210.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C Sections 200-299 — General Principles and Responsibilities"
+                    ],
                     "title": "AU-C Section 240 — Consideration of Fraud in a Financial Statement Audit",
                     "pageName": "AU_CSection240.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C Sections 200-299 — General Principles and Responsibilities"
+                    ],
                     "title": "AU-C Section 260 — The Auditor`s Communication With Those Charged With Governance",
                     "pageName": "AU_CSection260.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C Sections 200-299 — General Principles and Responsibilities"
+                    ],
                     "title": "AU-C Section 265 — Communicating Internal Control Related Matters Identified in an Audit",
                     "pageName": "AU_CSection265.html"
                 }
             ],
             "AU-C 300-499 — Risk Assesment and Response to Assessed Risk": [
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C 300-499 — Risk Assesment and Response to Assessed Risk"
+                    ],
                     "title": "AU-C Section 315 — Understanding the Entity and Its Environment and Assessing the Risk of Material Misstatement",
                     "pageName": "AU_CSection315.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C 300-499 — Risk Assesment and Response to Assessed Risk"
+                    ],
                     "title": "AU-C Section 330 — Performing Audit Procedures in Response to Assessed Risk and Evaluating the Audit Evidence Obtained",
                     "pageName": "AU_CSection330.html"
                 }
             ],
             "AU-C Sections 500-599 — Audit Evidence": [
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C Sections 500-599 — Audit Evidence"
+                    ],
                     "title": "AU-C Section 500 — Audit Evidence",
                     "pageName": "AU_CSection500.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C Sections 500-599 — Audit Evidence"
+                    ],
                     "title": "AU-C Section 501 - Specific Considerations for Selected Items",
                     "pageName": "AU_CSection501.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C Sections 500-599 — Audit Evidence"
+                    ],
                     "title": "AU-C Section 505 — External Confirmations",
                     "pageName": "AU_CSection505.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C Sections 500-599 — Audit Evidence"
+                    ],
                     "title": "AU-C Section 520 — Analytival Procedures",
                     "pageName": "AU_CSection520.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C Sections 500-599 — Audit Evidence"
+                    ],
                     "title": "AU-C Section 530 — Audit Sampling",
                     "pageName": "AU-CSection530.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C Sections 500-599 — Audit Evidence"
+                    ],
                     "title": "AU-C Section 540 — Auditing Accounting Estimates",
                     "pageName": "AU_CSection540.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C Sections 500-599 — Audit Evidence"
+                    ],
                     "title": "AU-C Section 550 — Related Parties",
                     "pageName": "AU_CSection550.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C Sections 500-599 — Audit Evidence"
+                    ],
                     "title": "AU-C Section 560 — Subsequent Events and Subsequently Discovered Facts",
                     "pageName": "AU_CSection560.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C Sections 500-599 — Audit Evidence"
+                    ],
                     "title": "AU-C Section 570 — The Auditor`s Consideration of an Entity`s Ability to Continue as a Going Concern",
                     "pageName": "AU_CSection570.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C Sections 500-599 — Audit Evidence"
+                    ],
                     "title": "AU-C Section 580 — Written Representations",
                     "pageName": "AU_CSection580.html"
                 }
             ],
             "AU-C Section 600-699 — Using the Work of Others": [
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C Section 600-699 — Using the Work of Others"
+                    ],
                     "title": "AU-C Section 600 —Special Considerations—Audits of Group Financial statements (Including the Work of Component Auditors)",
                     "pageName": "AU_CSection600_2022.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C Section 600-699 — Using the Work of Others"
+                    ],
                     "title": "AU-C Section 620 — Using the Work of an Auditor`s Specialist",
                     "pageName": "AU_CSection620_2022.html"
                 }
             ],
             "AU-C section 700-799 — Auditing Conclusions and Reporting": [
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C section 700-799 — Auditing Conclusions and Reporting"
+                    ],
                     "title": "AU-C Section 700 — Forming an Opinion and Reporting on Financial Statements",
                     "pageName": "AU_CSection700_2022.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C section 700-799 — Auditing Conclusions and Reporting"
+                    ],
                     "title": "AU-C Section 705 — Modifications to the Opinion in the Independent Auditor`s Report",
                     "pageName": "AU_CSection705_2022.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C section 700-799 — Auditing Conclusions and Reporting"
+                    ],
                     "title": "AU-C Section 706 — Emphasis-of-Matter Paragraphs and Other-Matter Paragraphs in the Independent Auditor`s Report",
                     "pageName": "AU_CSection706_2022.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C section 700-799 — Auditing Conclusions and Reporting"
+                    ],
                     "title": "AU-C Section 708 Consistency of Financial Statements",
                     "pageName": "AU_CSection708_2022.html"
                 }
             ],
             "AU-C Sections 800-950 — Special Considerations": [
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C Sections 800-950 — Special Considerations"
+                    ],
                     "title": "AU-C Section 800 — Special Consderation Audits of Financial Statements Prepared in Accordance With Special Purpose Frameworks",
                     "pageName": "AU_CSection800_2022.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C Sections 800-950 — Special Considerations"
+                    ],
                     "title": "AU-C Section 930 — Interim Financial Information",
                     "pageName": "au-c-00930.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "U.S Auditing Standards AICPA (Clarified)",
+                        "AU-C Sections 800-950 — Special Considerations"
+                    ],
                     "title": "AU-C Section 940 — An Audit of Internal Control Over Financial Reporting",
                     "pageName": "AU-CSection940.html"
                 }
@@ -117,38 +242,83 @@
         "Attestation Standards (Clarified)": {
             "AT-C Statements on Standards of Attestation Engagements": [
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "Attestation Standards (Clarified)",
+                        "AT-C Statements on Standards of Attestation Engagements"
+                    ],
                     "title": "AT-C 105 - Concepts Common to All Attestation Engagements",
                     "pageName": "ATSection105.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "Attestation Standards (Clarified)",
+                        "AT-C Statements on Standards of Attestation Engagements"
+                    ],
                     "title": "AT-C 205 - Examination Engagements",
                     "pageName": "ATSection205.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "Attestation Standards (Clarified)",
+                        "AT-C Statements on Standards of Attestation Engagements"
+                    ],
                     "title": "AT-C 210 - Review Engagements",
                     "pageName": "ATSection210.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "Attestation Standards (Clarified)",
+                        "AT-C Statements on Standards of Attestation Engagements"
+                    ],
                     "title": "AT-C 215 - Agreed-Upon Procedures Engagements",
                     "pageName": "at-c-00215.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "Attestation Standards (Clarified)",
+                        "AT-C Statements on Standards of Attestation Engagements"
+                    ],
                     "title": "AT-C 305 - Prospective Financial Information",
                     "pageName": "ATSection305.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "Attestation Standards (Clarified)",
+                        "AT-C Statements on Standards of Attestation Engagements"
+                    ],
                     "title": "AT-C 310 - Reporting on Pro Forma Financial Information",
                     "pageName": "ATSection310.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "Attestation Standards (Clarified)",
+                        "AT-C Statements on Standards of Attestation Engagements"
+                    ],
                     "title": "AT-C 315 - Compliance Attestation",
                     "pageName": "ATSection315.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "Attestation Standards (Clarified)",
+                        "AT-C Statements on Standards of Attestation Engagements"
+                    ],
                     "title": "AT-C 320 - Reporting on an Examination of Controls at a Service Organization Relevant to User Entities Internal Control Over Financial Reporting",
                     "pageName": "ATSection320.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "Attestation Standards (Clarified)",
+                        "AT-C Statements on Standards of Attestation Engagements"
+                    ],
                     "title": "AT-C 395 - Management Discussion and Analysis",
                     "pageName": "ATSection395.html"
                 }
@@ -157,22 +327,47 @@
         "Accounting and Review Services (Clarified)": {
             "AR-C Statements on Standards for Accounting and Review Services": [
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "Accounting and Review Services (Clarified)",
+                        "AR-C Statements on Standards for Accounting and Review Services"
+                    ],
                     "title": "AR-C Section 50 - Standards for Accounting and Review Services",
                     "pageName": "ARSection50.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "Accounting and Review Services (Clarified)",
+                        "AR-C Statements on Standards for Accounting and Review Services"
+                    ],
                     "title": "AR-C Section 60 - Framework for Performing and Reporting on Compilation and Review Engagements",
                     "pageName": "ARSection60.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "Accounting and Review Services (Clarified)",
+                        "AR-C Statements on Standards for Accounting and Review Services"
+                    ],
                     "title": "AR-C Section 80 - Compilation of Financial Statements",
                     "pageName": "ar-c-00080.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "Accounting and Review Services (Clarified)",
+                        "AR-C Statements on Standards for Accounting and Review Services"
+                    ],
                     "title": "AR-C Section 90 - Review of Financial Statements",
                     "pageName": "ARSection90.html"
                 },
                 {
+                    "breadcrumb": [
+                        "AICPA Professional Standards",
+                        "Accounting and Review Services (Clarified)",
+                        "AR-C Statements on Standards for Accounting and Review Services"
+                    ],
                     "title": "AR-C Section 120 - Compilation of Pro Forma Financial Information",
                     "pageName": "ARSection120.html"
                 }
@@ -180,6 +375,10 @@
         },
         "Quality Control": [
             {
+                "breadcrumb": [
+                    "AICPA Professional Standards",
+                    "Quality Control"
+                ],
                 "title": "QC Section 10 - A Firm`s System of Quality Control",
                 "pageName": "QCSection10.html"
             }
@@ -189,64 +388,134 @@
         "Auditing—Reorganized": {
             "1000 General Principles and Responsibilities": [
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditing—Reorganized",
+                        "1000 General Principles and Responsibilities"
+                    ],
                     "title": "AS Section 1001 - Responsibilities and Functions of the Independent Auditor",
                     "pageName": "ASSection1001.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditing—Reorganized",
+                        "1000 General Principles and Responsibilities"
+                    ],
                     "title": "AS Section 1005 - Independence",
                     "pageName": "ASSection1005.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditing—Reorganized",
+                        "1000 General Principles and Responsibilities"
+                    ],
                     "title": "AS Section 1010 - Training and Proficiency of the Independent Auditor",
                     "pageName": "ASSection1010.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditing—Reorganized",
+                        "1000 General Principles and Responsibilities"
+                    ],
                     "title": "AS Section 1015 - Due Professional Care in the Performance of Work",
                     "pageName": "ASSection1015.html"
                 }
             ],
             "11100 General Concepts": [
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditing—Reorganized",
+                        "11100 General Concepts"
+                    ],
                     "title": "AS Section 1101 - Audit Risk",
                     "pageName": "ASSection1101.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditing—Reorganized",
+                        "11100 General Concepts"
+                    ],
                     "title": "AS Section 1105 - Audit Evidence",
                     "pageName": "ASSection1105.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditing—Reorganized",
+                        "11100 General Concepts"
+                    ],
                     "title": "AS Section 1110 - Relationship of Auditing Standards to Quality Control Standards",
                     "pageName": "ASSection1110.html"
                 }
             ],
             "1200 General Activities": [
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditing—Reorganized",
+                        "1200 General Activities"
+                    ],
                     "title": "AS Section 1201 - Supervision of the Audit Engagement",
                     "pageName": "ASSection1201.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditing—Reorganized",
+                        "1200 General Activities"
+                    ],
                     "title": "AS Section 1205 - Part of the Audit Performed by Other Independent Auditors",
                     "pageName": "ASSection1205.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditing—Reorganized",
+                        "1200 General Activities"
+                    ],
                     "title": "AS Section 1210 - Using the Work of a Specialist",
                     "pageName": "ASSection1210.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditing—Reorganized",
+                        "1200 General Activities"
+                    ],
                     "title": "AS Section 1215 - Audit Documentation",
                     "pageName": "ASSection1215.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditing—Reorganized",
+                        "1200 General Activities"
+                    ],
                     "title": "AS Section 1220 - Engagement Quality Review",
                     "pageName": "ASSection1220.html"
                 }
             ],
             "1300 Auditor Communications": [
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditing—Reorganized",
+                        "1300 Auditor Communications"
+                    ],
                     "title": "AS Section 1301 - Communications with Audit Committees",
                     "pageName": "ASSection1301.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditing—Reorganized",
+                        "1300 Auditor Communications"
+                    ],
                     "title": "AS Section 1305 - Communications About Control Deficiencies in an Audit of Financial Statements",
                     "pageName": "ASSection1305.html"
                 }
@@ -255,138 +524,288 @@
         "Audit Procedures": {
             "2100 Audit Planning and Risk Assessment": [
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2100 Audit Planning and Risk Assessment"
+                    ],
                     "title": "AS Section 2101 - Audit Planning",
                     "pageName": "ASSection2101.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2100 Audit Planning and Risk Assessment"
+                    ],
                     "title": "AS Section 2105 - Consideration of Materiality in Planning and Performing an Audit",
                     "pageName": "ASSection2105.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2100 Audit Planning and Risk Assessment"
+                    ],
                     "title": "AS Section 2110 - Identifying and Assessing Risks of Material Misstatemen",
                     "pageName": "ASSection2110.html"
                 }
             ],
             "2200 Auditing Internal Control Over Financial Reporting": [
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2200 Auditing Internal Control Over Financial Reporting"
+                    ],
                     "title": "AS Section 2201 - An Audit of Internal Control Over Financial Reporting That Is Integrated with An Audit of Financial Statements",
                     "pageName": "aud2201.html"
                 }
             ],
             "2300 Audit Procedures in Response to Risks—Nature, Timing, and Extent": [
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2300 Audit Procedures in Response to Risks—Nature, Timing, and Extent"
+                    ],
                     "title": "AS Section 2301 - The Auditor`s Responses to the Risks of Material Misstatement",
                     "pageName": "ASSection2301.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2300 Audit Procedures in Response to Risks—Nature, Timing, and Extent"
+                    ],
                     "title": "AS Section 2305 - Substantive Analytical Procedures",
                     "pageName": "ASSection2305.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2300 Audit Procedures in Response to Risks—Nature, Timing, and Extent"
+                    ],
                     "title": "AS Section 2310 - The Confirmation Process",
                     "pageName": "ASSection2310.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2300 Audit Procedures in Response to Risks—Nature, Timing, and Extent"
+                    ],
                     "title": "AS Section 2315 - Audit Sampling",
                     "pageName": "ASSection2315.html"
                 }
             ],
             "2400 Audit Procedures for Specific Aspects of the Audit": [
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2400 Audit Procedures for Specific Aspects of the Audit"
+                    ],
                     "title": "AS Section 2401 - Consideration of Fraud in a Financial Statement Audit",
                     "pageName": "ASSection2401.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2400 Audit Procedures for Specific Aspects of the Audit"
+                    ],
                     "title": "AS Section 2405 - Illegal Acts by Clients",
                     "pageName": "ASSection2405.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2400 Audit Procedures for Specific Aspects of the Audit"
+                    ],
                     "title": "AS Section 2410 - Related Parties",
                     "pageName": "ASSection2410.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2400 Audit Procedures for Specific Aspects of the Audit"
+                    ],
                     "title": "AS Section  2415 - Consideration of an Entity`s Ability to Continue as a Going Concern",
                     "pageName": "ASSection2415.html"
                 }
             ],
             "2500 Audit Procedures for Certain Accounts or Disclosures": [
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2500 Audit Procedures for Certain Accounts or Disclosures"
+                    ],
                     "title": "AS Section 2501 - Auditing Accounting Estimates",
                     "pageName": "ASSection2501.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2500 Audit Procedures for Certain Accounts or Disclosures"
+                    ],
                     "title": "AS Section 2502 - Auditing Fair Value Measurements and Disclosures",
                     "pageName": "ASSection2502.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2500 Audit Procedures for Certain Accounts or Disclosures"
+                    ],
                     "title": "AS Section 2503 - Auditing Derivative Instruments, Hedging Activities, and Investments in Securities",
                     "pageName": "ASSection2503.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2500 Audit Procedures for Certain Accounts or Disclosures"
+                    ],
                     "title": "AS Section  2505 - Inquiry of a Client`s Lawyer Concerning Litigation, Claims, and Assessments",
                     "pageName": "ASSection2505.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2500 Audit Procedures for Certain Accounts or Disclosures"
+                    ],
                     "title": "AS Section  2510 - Auditing Inventories",
                     "pageName": "ASSection2510.html"
                 }
             ],
             "2600 Special Topics": [
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2600 Special Topics"
+                    ],
                     "title": "AS Section 2601 - Consideration of an Entity`s Use of a Service Organization",
                     "pageName": "ASSection2601.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2600 Special Topics"
+                    ],
                     "title": "AS Section 2605 - Consideration of the Internal Audit Function",
                     "pageName": "ASSection2605.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2600 Special Topics"
+                    ],
                     "title": "AS Section 2610 - Initial Audits—Communications Between Predecessor and Successor Auditors",
                     "pageName": "ASSection2610.html"
                 }
             ],
             "2700 Auditor`s Responsibilities Regarding Supplemental and Other Information": [
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2700 Auditor`s Responsibilities Regarding Supplemental and Other Information"
+                    ],
                     "title": "AS Section 2701 - Auditing Supplemental Information Accompanying Audited Financial Statements",
                     "pageName": "ASSection2701.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2700 Auditor`s Responsibilities Regarding Supplemental and Other Information"
+                    ],
                     "title": "AS Section 2705 - Required Supplementary Information",
                     "pageName": "ASSection2705.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2700 Auditor`s Responsibilities Regarding Supplemental and Other Information"
+                    ],
                     "title": "AS Section 2710 - Other Information in Documents Containing Audited Financial Statements",
                     "pageName": "ASSection2710.html"
                 }
             ],
             "2800 Concluding Audit Procedures": [
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2800 Concluding Audit Procedures"
+                    ],
                     "title": "AS Section 2801 - Subsequent Events",
                     "pageName": "ASSection2801.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2800 Concluding Audit Procedures"
+                    ],
                     "title": "AS Section 2805 - Management Representations",
                     "pageName": "ASSection2805.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2800 Concluding Audit Procedures"
+                    ],
                     "title": "AS Section 2810 - Evaluating Audit Results",
                     "pageName": "ASSection2810.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2800 Concluding Audit Procedures"
+                    ],
                     "title": "AS Section 2815 - The Meaning of \"Present Fairly in Conformity with Generally Accepted Accounting Principles\"",
                     "pageName": "ASSection2815.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2800 Concluding Audit Procedures"
+                    ],
                     "title": "AS Section 2820 - Evaluating Consistency of Financial Statements",
                     "pageName": "ASSection2820.html"
                 }
             ],
             "2900 Post-Audit Matters": [
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2900 Post-Audit Matters"
+                    ],
                     "title": "AS Section 2901 - Consideration of Omitted Procedures After the Report Date",
                     "pageName": "ASSection2901.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Audit Procedures",
+                        "2900 Post-Audit Matters"
+                    ],
                     "title": "AS Section 2905 - Subsequent Discovery of Facts Existing at the Date of the Auditor`s Report",
                     "pageName": "ASSection2905.html"
                 }
@@ -395,56 +814,116 @@
         "Auditor Reporting": {
             "3100 Reporting on Audits of Financial Statements": [
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditor Reporting",
+                        "3100 Reporting on Audits of Financial Statements"
+                    ],
                     "title": "AS Section 3101 - Reports on Audited Financial Statements",
                     "pageName": "ASSection3101.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditor Reporting",
+                        "3100 Reporting on Audits of Financial Statements"
+                    ],
                     "title": "AS Section 3105 - Departures from Unqualified Opinions and Other Reporting Circumstances",
                     "pageName": "ASSection3105.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditor Reporting",
+                        "3100 Reporting on Audits of Financial Statements"
+                    ],
                     "title": "AS Section 3110 - Dating of the Independent Auditor`s Report",
                     "pageName": "ASSection3110.html"
                 }
             ],
             "3300 Other Reporting Topics": [
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditor Reporting",
+                        "3300 Other Reporting Topics"
+                    ],
                     "title": "AS Section 3305 - Special Reports",
                     "pageName": "ASSection3305.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditor Reporting",
+                        "3300 Other Reporting Topics"
+                    ],
                     "title": "AS Section 3310 - Special Reports on Regulated Companies",
                     "pageName": "ASSection3310.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditor Reporting",
+                        "3300 Other Reporting Topics"
+                    ],
                     "title": "AS Section 3320 - Association with Financial Statements",
                     "pageName": "ASSection3320.html"
                 }
             ],
             "Matters Relating to Filings Under Federal Securities Laws": [
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditor Reporting",
+                        "Matters Relating to Filings Under Federal Securities Laws"
+                    ],
                     "title": "AS Section 4101 - Responsibilities Regarding Filings Under Federal Securities Statutes",
                     "pageName": "ASSection4101.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditor Reporting",
+                        "Matters Relating to Filings Under Federal Securities Laws"
+                    ],
                     "title": "AS Section 4105 - Reviews of Interim Financial Information",
                     "pageName": "ASSection4105.html"
                 }
             ],
             "Other Matters Associated with Audits": [
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditor Reporting",
+                        "Other Matters Associated with Audits"
+                    ],
                     "title": "AS Section 6101 - Letters for Underwriters and Certain Other Requesting Parties",
                     "pageName": "ASSection6101.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditor Reporting",
+                        "Other Matters Associated with Audits"
+                    ],
                     "title": "AS Section 6105 - Reports on the Application of Accounting Principles",
                     "pageName": "ASSection6105.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditor Reporting",
+                        "Other Matters Associated with Audits"
+                    ],
                     "title": "AS Section 6110 - Compliance Auditing Considerations in Audits of Recipients of Governmental Financial Assistance",
                     "pageName": "ASSection6110.html"
                 },
                 {
+                    "breadcrumb": [
+                        "PCAOB Auditing Standards",
+                        "Auditor Reporting",
+                        "Other Matters Associated with Audits"
+                    ],
                     "title": "AS Section 6115 - Reporting on Whether a Previously Reported Material Weakness Continues to Exist",
                     "pageName": "ASSection6115.html"
                 }
@@ -457,6 +936,13 @@
                 "Subchapter A - Determination of Tax Liability (§§1-59B)": {
                     "Part I - Tax on Individuals": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter A - Determination of Tax Liability (§§1-59B)",
+                                "Part I - Tax on Individuals"
+                            ],
                             "title": "§1 - Tax imposed",
                             "pageName": "1.html"
                         }
@@ -464,24 +950,64 @@
                     "Part IV - Credits Against Tax (§§21-54AA)": {
                         "Subpart A - Nonrefundable Personal Credits (§§21-26)": [
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter A - Determination of Tax Liability (§§1-59B)",
+                                    "Part IV - Credits Against Tax (§§21-54AA)",
+                                    "Subpart A - Nonrefundable Personal Credits (§§21-26)"
+                                ],
                                 "title": "§21 - Expenses",
                                 "pageName": "21.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter A - Determination of Tax Liability (§§1-59B)",
+                                    "Part IV - Credits Against Tax (§§21-54AA)",
+                                    "Subpart A - Nonrefundable Personal Credits (§§21-26)"
+                                ],
                                 "title": "§24 - Child tax credit",
                                 "pageName": "24.html"
                             }
                         ],
                         "Subpart C - Refundable Credits (§§31-37)": [
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter A - Determination of Tax Liability (§§1-59B)",
+                                    "Part IV - Credits Against Tax (§§21-54AA)",
+                                    "Subpart C - Refundable Credits (§§31-37)"
+                                ],
                                 "title": "§31 Tax withheld on wages",
                                 "pageName": "31.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter A - Determination of Tax Liability (§§1-59B)",
+                                    "Part IV - Credits Against Tax (§§21-54AA)",
+                                    "Subpart C - Refundable Credits (§§31-37)"
+                                ],
                                 "title": "§32 Earned income",
                                 "pageName": "32.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter A - Determination of Tax Liability (§§1-59B)",
+                                    "Part IV - Credits Against Tax (§§21-54AA)",
+                                    "Subpart C - Refundable Credits (§§31-37)"
+                                ],
                                 "title": "§35 Health insurance costs of eligible individuals",
                                 "pageName": "35.html"
                             }
@@ -489,22 +1015,57 @@
                     },
                     "Part VI - Alternative Minimum Tax (§§55-59)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter A - Determination of Tax Liability (§§1-59B)",
+                                "Part VI - Alternative Minimum Tax (§§55-59)"
+                            ],
                             "title": "§ 55 - Alternative minimum tax imposed",
                             "pageName": "55.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter A - Determination of Tax Liability (§§1-59B)",
+                                "Part VI - Alternative Minimum Tax (§§55-59)"
+                            ],
                             "title": "§56 Adjustments in computing ATM",
                             "pageName": "56.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter A - Determination of Tax Liability (§§1-59B)",
+                                "Part VI - Alternative Minimum Tax (§§55-59)"
+                            ],
                             "title": "§57 Items of tax preference",
                             "pageName": "57.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter A - Determination of Tax Liability (§§1-59B)",
+                                "Part VI - Alternative Minimum Tax (§§55-59)"
+                            ],
                             "title": "§58 Denial of certain losses",
                             "pageName": "58.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter A - Determination of Tax Liability (§§1-59B)",
+                                "Part VI - Alternative Minimum Tax (§§55-59)"
+                            ],
                             "title": "§59 Other definitions and special rules",
                             "pageName": "59.html"
                         }
@@ -513,114 +1074,289 @@
                 "Subchapter B - Computation of Taxable Income (§§61-291)": {
                     "Part III - Items Specifically Excluded from Gross Income (§§101-140)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part III - Items Specifically Excluded from Gross Income (§§101-140)"
+                            ],
                             "title": "§102 - Gifts and inheritances",
                             "pageName": "102.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part III - Items Specifically Excluded from Gross Income (§§101-140)"
+                            ],
                             "title": "§103- Interest on State and local bonds",
                             "pageName": "103.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part III - Items Specifically Excluded from Gross Income (§§101-140)"
+                            ],
                             "title": "§117 - Qualified scholarships",
                             "pageName": "117.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part III - Items Specifically Excluded from Gross Income (§§101-140)"
+                            ],
                             "title": "§121 - Exclusion of gain from sale of principal residence",
                             "pageName": "121.html"
                         }
                     ],
                     "Part V - Deductions for Personal Exemptions (§§151-153)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part V - Deductions for Personal Exemptions (§§151-153)"
+                            ],
                             "title": "§151 Allowance of deductions for personal exemptions",
                             "pageName": "151.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part V - Deductions for Personal Exemptions (§§151-153)"
+                            ],
                             "title": "§152 Dependent defined",
                             "pageName": "152.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part V - Deductions for Personal Exemptions (§§151-153)"
+                            ],
                             "title": "§153 Cross references",
                             "pageName": "153.html"
                         }
                     ],
                     "Part VI - Itemized Deductions for Individuals and Corporations (§§161-199)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part VI - Itemized Deductions for Individuals and Corporations (§§161-199)"
+                            ],
                             "title": "§162 - Trade or business expenses",
                             "pageName": "162.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part VI - Itemized Deductions for Individuals and Corporations (§§161-199)"
+                            ],
                             "title": "§163 - Interest",
                             "pageName": "163.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part VI - Itemized Deductions for Individuals and Corporations (§§161-199)"
+                            ],
                             "title": "§165 - Losses",
                             "pageName": "165.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part VI - Itemized Deductions for Individuals and Corporations (§§161-199)"
+                            ],
                             "title": "§167 Depreciation",
                             "pageName": "167.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part VI - Itemized Deductions for Individuals and Corporations (§§161-199)"
+                            ],
                             "title": "§168 Accelerated cost recovery system ",
                             "pageName": "168.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part VI - Itemized Deductions for Individuals and Corporations (§§161-199)"
+                            ],
                             "title": "§169 Amortization of pollution control facilities",
                             "pageName": "169.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part VI - Itemized Deductions for Individuals and Corporations (§§161-199)"
+                            ],
                             "title": "§170 Charitable, etc., contributions and gifts",
                             "pageName": "170.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part VI - Itemized Deductions for Individuals and Corporations (§§161-199)"
+                            ],
                             "title": "§195 Start-up expenditures",
                             "pageName": "195.html"
                         }
                     ],
                     "Part VII - Additional Itemeized Deductions (§§211-224)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part VII - Additional Itemeized Deductions (§§211-224)"
+                            ],
                             "title": "§213 Medical, dental, etc., expenses",
                             "pageName": "213.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part VII - Additional Itemeized Deductions (§§211-224)"
+                            ],
                             "title": "§221 - Interest on education loans",
                             "pageName": "221.html"
                         }
                     ],
                     "Part VIII - Special Deductions for Corporations (§§241-250)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part VIII - Special Deductions for Corporations (§§241-250)"
+                            ],
                             "title": "§243 Dividends received by corporations",
                             "pageName": "243.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part VIII - Special Deductions for Corporations (§§241-250)"
+                            ],
                             "title": "§244 Dividends received on certain preferred stock",
                             "pageName": "244.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part VIII - Special Deductions for Corporations (§§241-250)"
+                            ],
                             "title": "§246A - Dividends received deduction",
                             "pageName": "246.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part VIII - Special Deductions for Corporations (§§241-250)"
+                            ],
                             "title": "§247 Dividends paid on certain preferred stock of public utilities",
                             "pageName": "247.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part VIII - Special Deductions for Corporations (§§241-250)"
+                            ],
                             "title": "§248 Organizational expenditures",
                             "pageName": "248.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part VIII - Special Deductions for Corporations (§§241-250)"
+                            ],
                             "title": "§249 Limitation on deduction of bond premium on repurchase",
                             "pageName": "249.html"
                         }
                     ],
                     "Part IX - Disallowance Of Certain Entertainment, Etc., Expenses(§ 274)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Part IX - Disallowance Of Certain Entertainment, Etc., Expenses(§ 274)"
+                            ],
                             "title": "§274 Disallowance Of Certain Entertainment, Etc., Expenses",
                             "pageName": "part_IX_274.html"
                         }
                     ],
                     "Items Not Deductible (§§261 - 280H)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                "Items Not Deductible (§§261 - 280H)"
+                            ],
                             "title": "§274 Disallowance of certain entertainment, etc., expenses",
                             "pageName": "274.html"
                         }
@@ -630,42 +1366,114 @@
                     "Part I - Distributions by Corporations (§§301-318)": {
                         "Subpart A - Effects on Recipients (§§301-307)": [
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                    "Part I - Distributions by Corporations (§§301-318)",
+                                    "Subpart A - Effects on Recipients (§§301-307)"
+                                ],
                                 "title": "§301 Distributions of property",
                                 "pageName": "301.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                    "Part I - Distributions by Corporations (§§301-318)",
+                                    "Subpart A - Effects on Recipients (§§301-307)"
+                                ],
                                 "title": "302 - Distributions in redemption of stock",
                                 "pageName": "302.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                    "Part I - Distributions by Corporations (§§301-318)",
+                                    "Subpart A - Effects on Recipients (§§301-307)"
+                                ],
                                 "title": "§305 Distributions of stock and stock rights",
                                 "pageName": "305.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                    "Part I - Distributions by Corporations (§§301-318)",
+                                    "Subpart A - Effects on Recipients (§§301-307)"
+                                ],
                                 "title": "§306 Dispositions of certain stock",
                                 "pageName": "306.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                    "Part I - Distributions by Corporations (§§301-318)",
+                                    "Subpart A - Effects on Recipients (§§301-307)"
+                                ],
                                 "title": "§307 Basis of stock and stock rights acquired in distributions",
                                 "pageName": "307.html"
                             }
                         ],
                         "Subpart B - Effects on Corporation (§§311-312)": [
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                    "Part I - Distributions by Corporations (§§301-318)",
+                                    "Subpart B - Effects on Corporation (§§311-312)"
+                                ],
                                 "title": "§311 Taxability of corporation on distribution",
                                 "pageName": "311.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                    "Part I - Distributions by Corporations (§§301-318)",
+                                    "Subpart B - Effects on Corporation (§§311-312)"
+                                ],
                                 "title": "§312 Effect on earnings and profit",
                                 "pageName": "312.html"
                             }
                         ],
                         "Subpart C - Definitions: Constructive Ownership of Stock (§§316 - 318)": [
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                    "Part I - Distributions by Corporations (§§301-318)",
+                                    "Subpart C - Definitions: Constructive Ownership of Stock (§§316 - 318)"
+                                ],
                                 "title": "§316 Dividend defined",
                                 "pageName": "316.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                    "Part I - Distributions by Corporations (§§301-318)",
+                                    "Subpart C - Definitions: Constructive Ownership of Stock (§§316 - 318)"
+                                ],
                                 "title": "§317 Other definitions",
                                 "pageName": "317.html"
                             }
@@ -674,26 +1482,66 @@
                     "Part III - Corporate Organizations and Reorganizations (§§351-368)": {
                         "Subpart A - Corporate Organizations (§351)": [
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                    "Part III - Corporate Organizations and Reorganizations (§§351-368)",
+                                    "Subpart A - Corporate Organizations (§351)"
+                                ],
                                 "title": "§351 Transfer to corporation controlled by transferor",
                                 "pageName": "351.html"
                             }
                         ],
                         "Subpart B - Effects on Shareholders and Security Holders (§354-358)": [
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                    "Part III - Corporate Organizations and Reorganizations (§§351-368)",
+                                    "Subpart B - Effects on Shareholders and Security Holders (§354-358)"
+                                ],
                                 "title": "§354 Exchanges of stock and securities in certain reorganizations",
                                 "pageName": "354.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                    "Part III - Corporate Organizations and Reorganizations (§§351-368)",
+                                    "Subpart B - Effects on Shareholders and Security Holders (§354-358)"
+                                ],
                                 "title": "§356 Receipt of additional consideration",
                                 "pageName": "356.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                    "Part III - Corporate Organizations and Reorganizations (§§351-368)",
+                                    "Subpart B - Effects on Shareholders and Security Holders (§354-358)"
+                                ],
                                 "title": "§358 Basis to distributees",
                                 "pageName": "358.html"
                             }
                         ],
                         "Subpart C - Corporate Distributions and Adjustments (§362)": [
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter B - Computation of Taxable Income (§§61-291)",
+                                    "Part III - Corporate Organizations and Reorganizations (§§351-368)",
+                                    "Subpart C - Corporate Distributions and Adjustments (§362)"
+                                ],
                                 "title": "§362 Basis to corporations",
                                 "pageName": "362.html"
                             }
@@ -704,10 +1552,26 @@
                     "Part I - Pension, Profit-Sharing, stock Bonus Plans, etc. (??401-420)": {
                         "Subpart A - General Rule (§§401-409A)": [
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter D Deferred Compensation (§§401-436)",
+                                    "Part I - Pension, Profit-Sharing, stock Bonus Plans, etc. (??401-420)",
+                                    "Subpart A - General Rule (§§401-409A)"
+                                ],
                                 "title": "§401 Qualified pension, profit-sharing, and stock bonus plans",
                                 "pageName": "401.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter D Deferred Compensation (§§401-436)",
+                                    "Part I - Pension, Profit-Sharing, stock Bonus Plans, etc. (??401-420)",
+                                    "Subpart A - General Rule (§§401-409A)"
+                                ],
                                 "title": "§402A - Optional treatment of elective deferrals as Roth contributions",
                                 "pageName": "402.html"
                             }
@@ -718,38 +1582,102 @@
                     "Part II - Methods of Accounting (§§446-475)": {
                         "Subpart A - Methods of Accounting in General(§§446-453)": [
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter E Accounting Periods and Methods of Accounting (§§441-483)",
+                                    "Part II - Methods of Accounting (§§446-475)",
+                                    "Subpart A - Methods of Accounting in General(§§446-453)"
+                                ],
                                 "title": "§446 General rule for methods of accounting",
                                 "pageName": "446.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter E Accounting Periods and Methods of Accounting (§§441-483)",
+                                    "Part II - Methods of Accounting (§§446-475)",
+                                    "Subpart A - Methods of Accounting in General(§§446-453)"
+                                ],
                                 "title": "§448 - Limitation on use of cash method of accounting",
                                 "pageName": "448.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter E Accounting Periods and Methods of Accounting (§§441-483)",
+                                    "Part II - Methods of Accounting (§§446-475)",
+                                    "Subpart A - Methods of Accounting in General(§§446-453)"
+                                ],
                                 "title": "§453 - Installment method",
                                 "pageName": "453.html"
                             }
                         ],
                         "Subpart C - Taxable year for which Deductions Taken (§§461-470)": [
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter E Accounting Periods and Methods of Accounting (§§441-483)",
+                                    "Part II - Methods of Accounting (§§446-475)",
+                                    "Subpart C - Taxable year for which Deductions Taken (§§461-470)"
+                                ],
                                 "title": "§464 Limitations on deductions for certain farming",
                                 "pageName": "564.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter E Accounting Periods and Methods of Accounting (§§441-483)",
+                                    "Part II - Methods of Accounting (§§446-475)",
+                                    "Subpart C - Taxable year for which Deductions Taken (§§461-470)"
+                                ],
                                 "title": "§467 - Certain payments for the use of property or services",
                                 "pageName": "467.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter E Accounting Periods and Methods of Accounting (§§441-483)",
+                                    "Part II - Methods of Accounting (§§446-475)",
+                                    "Subpart C - Taxable year for which Deductions Taken (§§461-470)"
+                                ],
                                 "title": "§468B - Special rules for designated settlement funds",
                                 "pageName": "468.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter E Accounting Periods and Methods of Accounting (§§441-483)",
+                                    "Part II - Methods of Accounting (§§446-475)",
+                                    "Subpart C - Taxable year for which Deductions Taken (§§461-470)"
+                                ],
                                 "title": "§469 - Passive activity losses and credits limited",
                                 "pageName": "469.html"
                             }
                         ],
                         "Subpart D": [
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter E Accounting Periods and Methods of Accounting (§§441-483)",
+                                    "Part II - Methods of Accounting (§§446-475)",
+                                    "Subpart D"
+                                ],
                                 "title": "§ 475 Mark to market accounting method for dealers in securities",
                                 "pageName": "475.html"
                             }
@@ -759,30 +1687,73 @@
                 "Subchapter F Exempt Organzations (§§501-530)": {
                     "Part I - General Rule (§§501-505)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter F Exempt Organzations (§§501-530)",
+                                "Part I - General Rule (§§501-505)"
+                            ],
                             "title": "§501 - Exemption from tax on corporations, certain trusts,etc.",
                             "pageName": "501.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter F Exempt Organzations (§§501-530)",
+                                "Part I - General Rule (§§501-505)"
+                            ],
                             "title": "§502 - Feeder organizations",
                             "pageName": "502.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter F Exempt Organzations (§§501-530)",
+                                "Part I - General Rule (§§501-505)"
+                            ],
                             "title": "§503 - Requirements for exemption",
                             "pageName": "503.html"
                         }
                     ],
                     "Part II - Private Foundations (§§507-509)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter F Exempt Organzations (§§501-530)",
+                                "Part II - Private Foundations (§§507-509)"
+                            ],
                             "title": "§507 - Termination of private foundation status",
                             "pageName": "507.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter F Exempt Organzations (§§501-530)",
+                                "Part II - Private Foundations (§§507-509)"
+                            ],
                             "title": "§509 Private foundation defined",
                             "pageName": "509.html"
                         },
                         {
                             "Part VII - Certain Homeowners Associations": [
                                 {
+                                    "breadcrumb": [
+                                        "Internal Revenue Code",
+                                        "Subtitle A Income Taxes (§§1-1563)",
+                                        "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                        "Subchapter F Exempt Organzations (§§501-530)",
+                                        "Part II - Private Foundations (§§507-509)",
+                                        "Part VII - Certain Homeowners Associations"
+                                    ],
                                     "title": "§528 - Certain homeowners associations",
                                     "pageName": "528.html"
                                 }
@@ -791,10 +1762,24 @@
                     ],
                     "Part VIII - Higher Education Savings Entities (§§529-530)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter F Exempt Organzations (§§501-530)",
+                                "Part VIII - Higher Education Savings Entities (§§529-530)"
+                            ],
                             "title": "§529 - Qualified tuition programs",
                             "pageName": "529.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter F Exempt Organzations (§§501-530)",
+                                "Part VIII - Higher Education Savings Entities (§§529-530)"
+                            ],
                             "title": "§530  - Coverdell education savings accounts",
                             "pageName": "530.html"
                         }
@@ -803,28 +1788,70 @@
                 "Subchapter G Corporations Used to Avoid Income Tax on Shareholders (§§531-565)": {
                     "Part I - Corporations Improperly Accumulating Surplus (§§531-5370)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter G Corporations Used to Avoid Income Tax on Shareholders (§§531-565)",
+                                "Part I - Corporations Improperly Accumulating Surplus (§§531-5370)"
+                            ],
                             "title": "§532 - Corporations subject to accumulated earnings tax",
                             "pageName": "532.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter G Corporations Used to Avoid Income Tax on Shareholders (§§531-565)",
+                                "Part I - Corporations Improperly Accumulating Surplus (§§531-5370)"
+                            ],
                             "title": "§533 - Evidence of purpose to avoid income tax",
                             "pageName": "533.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter G Corporations Used to Avoid Income Tax on Shareholders (§§531-565)",
+                                "Part I - Corporations Improperly Accumulating Surplus (§§531-5370)"
+                            ],
                             "title": "§534 - Burden of proof",
                             "pageName": "534.html"
                         }
                     ],
                     "Part II - Personal Holding Companies (§§541-547)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter G Corporations Used to Avoid Income Tax on Shareholders (§§531-565)",
+                                "Part II - Personal Holding Companies (§§541-547)"
+                            ],
                             "title": "§541 - Imposition of personal holding company tax",
                             "pageName": "541.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter G Corporations Used to Avoid Income Tax on Shareholders (§§531-565)",
+                                "Part II - Personal Holding Companies (§§541-547)"
+                            ],
                             "title": "§544 Rules for determining stock ownership",
                             "pageName": "544.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter G Corporations Used to Avoid Income Tax on Shareholders (§§531-565)",
+                                "Part II - Personal Holding Companies (§§541-547)"
+                            ],
                             "title": "§545 - Undistributed personal holding company income",
                             "pageName": "545.html"
                         }
@@ -833,38 +1860,101 @@
                 "Subchapter K Partners and Partnerships (§§701-777)": {
                     "Part I - Determination of Tax Liability (§§701-709)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter K Partners and Partnerships (§§701-777)",
+                                "Part I - Determination of Tax Liability (§§701-709)"
+                            ],
                             "title": "§701 Partners, not partnership, subject to tax",
                             "pageName": "701.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter K Partners and Partnerships (§§701-777)",
+                                "Part I - Determination of Tax Liability (§§701-709)"
+                            ],
                             "title": "§702 Income and credits of partner",
                             "pageName": "702.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter K Partners and Partnerships (§§701-777)",
+                                "Part I - Determination of Tax Liability (§§701-709)"
+                            ],
                             "title": "§703 Partnership computations",
                             "pageName": "703.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter K Partners and Partnerships (§§701-777)",
+                                "Part I - Determination of Tax Liability (§§701-709)"
+                            ],
                             "title": "§704 Partner's distributive share",
                             "pageName": "704.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter K Partners and Partnerships (§§701-777)",
+                                "Part I - Determination of Tax Liability (§§701-709)"
+                            ],
                             "title": "§705 Determination of basis of partner's interest",
                             "pageName": "705.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter K Partners and Partnerships (§§701-777)",
+                                "Part I - Determination of Tax Liability (§§701-709)"
+                            ],
                             "title": "§706 Taxable years of partner and partnership",
                             "pageName": "706.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter K Partners and Partnerships (§§701-777)",
+                                "Part I - Determination of Tax Liability (§§701-709)"
+                            ],
                             "title": "§707 Transactions between partner and partnership",
                             "pageName": "707.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter K Partners and Partnerships (§§701-777)",
+                                "Part I - Determination of Tax Liability (§§701-709)"
+                            ],
                             "title": "§708 Continuation of partnership",
                             "pageName": "708.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter K Partners and Partnerships (§§701-777)",
+                                "Part I - Determination of Tax Liability (§§701-709)"
+                            ],
                             "title": "§709 Treatment of organization and syndication fees",
                             "pageName": "709.html"
                         }
@@ -872,40 +1962,112 @@
                     "Part II - Contributions, Distributions and Transfers (§§721-755)": {
                         "Subpart B - Distributions by a Partnership (§§731-737)": [
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter K Partners and Partnerships (§§701-777)",
+                                    "Part II - Contributions, Distributions and Transfers (§§721-755)",
+                                    "Subpart B - Distributions by a Partnership (§§731-737)"
+                                ],
                                 "title": "732 - Basis of distributed property other than money",
                                 "pageName": "732.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter K Partners and Partnerships (§§701-777)",
+                                    "Part II - Contributions, Distributions and Transfers (§§721-755)",
+                                    "Subpart B - Distributions by a Partnership (§§731-737)"
+                                ],
                                 "title": "§733 - Basis of distributee partner's interest",
                                 "pageName": "733.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter K Partners and Partnerships (§§701-777)",
+                                    "Part II - Contributions, Distributions and Transfers (§§721-755)",
+                                    "Subpart B - Distributions by a Partnership (§§731-737)"
+                                ],
                                 "title": "§734 - Adjustment to basis of undistributed partnership property ",
                                 "pageName": "734.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter K Partners and Partnerships (§§701-777)",
+                                    "Part II - Contributions, Distributions and Transfers (§§721-755)",
+                                    "Subpart B - Distributions by a Partnership (§§731-737)"
+                                ],
                                 "title": "§735 - Character of gain or loss on disposition of distributed property",
                                 "pageName": "735.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter K Partners and Partnerships (§§701-777)",
+                                    "Part II - Contributions, Distributions and Transfers (§§721-755)",
+                                    "Subpart B - Distributions by a Partnership (§§731-737)"
+                                ],
                                 "title": "§736 - Payments to a retiring partner or a deceased partner's successor in interest",
                                 "pageName": "736.html"
                             }
                         ],
                         "Subpart D - Provisions Common to Other Subparts (§§741-755)": [
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter K Partners and Partnerships (§§701-777)",
+                                    "Part II - Contributions, Distributions and Transfers (§§721-755)",
+                                    "Subpart D - Provisions Common to Other Subparts (§§741-755)"
+                                ],
                                 "title": "§743 - Special rules ",
                                 "pageName": "743.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter K Partners and Partnerships (§§701-777)",
+                                    "Part II - Contributions, Distributions and Transfers (§§721-755)",
+                                    "Subpart D - Provisions Common to Other Subparts (§§741-755)"
+                                ],
                                 "title": "§751 Unrealized receivables and inventory items ",
                                 "pageName": "751.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter K Partners and Partnerships (§§701-777)",
+                                    "Part II - Contributions, Distributions and Transfers (§§721-755)",
+                                    "Subpart D - Provisions Common to Other Subparts (§§741-755)"
+                                ],
                                 "title": "§752 Treatment of certain liabilities",
                                 "pageName": "752.html"
                             },
                             {
+                                "breadcrumb": [
+                                    "Internal Revenue Code",
+                                    "Subtitle A Income Taxes (§§1-1563)",
+                                    "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                    "Subchapter K Partners and Partnerships (§§701-777)",
+                                    "Part II - Contributions, Distributions and Transfers (§§721-755)",
+                                    "Subpart D - Provisions Common to Other Subparts (§§741-755)"
+                                ],
                                 "title": "§754 - Manner of electing optional adjustment to basis of partnership property",
                                 "pageName": "754.html"
                             }
@@ -915,34 +2077,83 @@
                 "Subchapter O - Gain or Loss on Disposition of Property(§§1001-1111)": {
                     "Part II - Basis Rules of General Application (§§1011-1024)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter O - Gain or Loss on Disposition of Property(§§1001-1111)",
+                                "Part II - Basis Rules of General Application (§§1011-1024)"
+                            ],
                             "title": "§1011 Adjusted basis for determining gain or loss",
                             "pageName": "1011.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter O - Gain or Loss on Disposition of Property(§§1001-1111)",
+                                "Part II - Basis Rules of General Application (§§1011-1024)"
+                            ],
                             "title": "§1012 - Basis of property - cost",
                             "pageName": "1012.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter O - Gain or Loss on Disposition of Property(§§1001-1111)",
+                                "Part II - Basis Rules of General Application (§§1011-1024)"
+                            ],
                             "title": "§1014 - Basis of property acquired from a decedent",
                             "pageName": "1014.html"
                         }
                     ],
                     "Part III - Common Nontaxable Exchanges (§§1031-1045)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter O - Gain or Loss on Disposition of Property(§§1001-1111)",
+                                "Part III - Common Nontaxable Exchanges (§§1031-1045)"
+                            ],
                             "title": "§1031 - Exchange of property held for productive use or investment",
                             "pageName": "1031.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter O - Gain or Loss on Disposition of Property(§§1001-1111)",
+                                "Part III - Common Nontaxable Exchanges (§§1031-1045)"
+                            ],
                             "title": "§1036 - Stock for stock of same corporation",
                             "pageName": "1036.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter O - Gain or Loss on Disposition of Property(§§1001-1111)",
+                                "Part III - Common Nontaxable Exchanges (§§1031-1045)"
+                            ],
                             "title": "§1041 - Transfers of property between spouses or incident to divorce",
                             "pageName": "1041.html"
                         }
                     ],
                     "Part VII - Wash Sales; Straddles (§§1091-1092)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter O - Gain or Loss on Disposition of Property(§§1001-1111)",
+                                "Part VII - Wash Sales; Straddles (§§1091-1092)"
+                            ],
                             "title": "§1091 Loss from wash sales of stock and securities",
                             "pageName": "1091.html"
                         }
@@ -951,24 +2162,59 @@
                 "Subchapter P - Capital Gains and Losses (§§1201-1298)": {
                     "Part II - Treatment of Capital Losses (§§1211-1212)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter P - Capital Gains and Losses (§§1201-1298)",
+                                "Part II - Treatment of Capital Losses (§§1211-1212)"
+                            ],
                             "title": "§1211 Limitation on capital losses",
                             "pageName": "1211.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter P - Capital Gains and Losses (§§1201-1298)",
+                                "Part II - Treatment of Capital Losses (§§1211-1212)"
+                            ],
                             "title": "§1212 Capital loss carrybacks and carryovers",
                             "pageName": "1212.html"
                         }
                     ],
                     "Part III - General Rules for Determining Capital Gains and Losses (§§1221-1239)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter P - Capital Gains and Losses (§§1201-1298)",
+                                "Part III - General Rules for Determining Capital Gains and Losses (§§1221-1239)"
+                            ],
                             "title": "§1221 - Capital asset defined",
                             "pageName": "1221.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter P - Capital Gains and Losses (§§1201-1298)",
+                                "Part III - General Rules for Determining Capital Gains and Losses (§§1221-1239)"
+                            ],
                             "title": "§1223 - Holding period of property",
                             "pageName": "1223.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter P - Capital Gains and Losses (§§1201-1298)",
+                                "Part III - General Rules for Determining Capital Gains and Losses (§§1221-1239)"
+                            ],
                             "title": "§1239 - Gain from sale of depreciable property between certain related taxpayers",
                             "pageName": "1239.html"
                         }
@@ -977,6 +2223,13 @@
                 "Subchapter Q - Readjustment of Tax Between Years and Special Limitations": {
                     "Part I - Income Averaging (§1301)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter Q - Readjustment of Tax Between Years and Special Limitations",
+                                "Part I - Income Averaging (§1301)"
+                            ],
                             "title": "§1301 - Averaging of farm income",
                             "pageName": "1301.html"
                         }
@@ -985,16 +2238,37 @@
                 "Subchapter S - Tax Treatment of Corporations and Their Shareholders (§§1361-1379)": {
                     "Part I - Tax Treatment of Shareholders (§§1360-1365)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter S - Tax Treatment of Corporations and Their Shareholders (§§1361-1379)",
+                                "Part I - Tax Treatment of Shareholders (§§1360-1365)"
+                            ],
                             "title": "§1362 - Election; revocation; termination",
                             "pageName": "1362.html"
                         }
                     ],
                     "Part II - Tax Treatment of Shareholders (§§1366-1368)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter S - Tax Treatment of Corporations and Their Shareholders (§§1361-1379)",
+                                "Part II - Tax Treatment of Shareholders (§§1366-1368)"
+                            ],
                             "title": "§1366 - Pass-thru of items to shareholders",
                             "pageName": "1366.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle A Income Taxes (§§1-1563)",
+                                "Chapter 1 Normal Taxes and Surtaxes (§§1-1400U-3)",
+                                "Subchapter S - Tax Treatment of Corporations and Their Shareholders (§§1361-1379)",
+                                "Part II - Tax Treatment of Shareholders (§§1366-1368)"
+                            ],
                             "title": "§1367 - Adjustments to basis of stock of shareholders, etc.",
                             "pageName": "1367.html"
                         }
@@ -1005,53 +2279,117 @@
         "Subtitle B - Estate and Gift Taxes (§§2001-2801)": {
             "Chapter 11 - Estate Tax (§§2001-2210)": {
                 "Subchapter A - Estates of Citizens or Residents (§§2001-2058)": {
-                    "Subchapter A - Estates of Citizens or Residents (§§2001-2058)": {
-                        "Part II - Credits Against Tax (§§2010-2016)": [
-                            {
-                                "title": "§2010 Unified credit against estate tax ",
-                                "pageName": "2010.html"
-                            },
-                            {
-                                "title": "§2011 Credit for State death taxes",
-                                "pageName": "2011.html"
-                            },
-                            {
-                                "title": "§2012 Credit for State death taxes",
-                                "pageName": "2012.html"
-                            }
-                        ],
-                        "Part IV - Taxable Estate (§§2051-2058)": [
-                            {
-                                "title": "§2051 Definition of taxable estate",
-                                "pageName": "2051.html"
-                            },
-                            {
-                                "title": "§2053 Expenses, indebtedness, and taxtes",
-                                "pageName": "2053.html"
-                            },
-                            {
-                                "title": "§2055 Transfers for public, charitable, and religious uses",
-                                "pageName": "2055.html"
-                            }
-                        ]
-                    }
+                    "Part II - Credits Against Tax (§§2010-2016)": [
+                        {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle B - Estate and Gift Taxes (§§2001-2801)",
+                                "Chapter 11 - Estate Tax (§§2001-2210)",
+                                "Subchapter A - Estates of Citizens or Residents (§§2001-2058)",
+                                "Part II - Credits Against Tax (§§2010-2016)"
+                            ],
+                            "title": "§2010 Unified credit against estate tax ",
+                            "pageName": "2010.html"
+                        },
+                        {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle B - Estate and Gift Taxes (§§2001-2801)",
+                                "Chapter 11 - Estate Tax (§§2001-2210)",
+                                "Subchapter A - Estates of Citizens or Residents (§§2001-2058)",
+                                "Part II - Credits Against Tax (§§2010-2016)"
+                            ],
+                            "title": "§2011 Credit for State death taxes",
+                            "pageName": "2011.html"
+                        },
+                        {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle B - Estate and Gift Taxes (§§2001-2801)",
+                                "Chapter 11 - Estate Tax (§§2001-2210)",
+                                "Subchapter A - Estates of Citizens or Residents (§§2001-2058)",
+                                "Part II - Credits Against Tax (§§2010-2016)"
+                            ],
+                            "title": "§2012 Credit for State death taxes",
+                            "pageName": "2012.html"
+                        }
+                    ],
+                    "Part IV - Taxable Estate (§§2051-2058)": [
+                        {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle B - Estate and Gift Taxes (§§2001-2801)",
+                                "Chapter 11 - Estate Tax (§§2001-2210)",
+                                "Subchapter A - Estates of Citizens or Residents (§§2001-2058)",
+                                "Part IV - Taxable Estate (§§2051-2058)"
+                            ],
+                            "title": "§2051 Definition of taxable estate",
+                            "pageName": "2051.html"
+                        },
+                        {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle B - Estate and Gift Taxes (§§2001-2801)",
+                                "Chapter 11 - Estate Tax (§§2001-2210)",
+                                "Subchapter A - Estates of Citizens or Residents (§§2001-2058)",
+                                "Part IV - Taxable Estate (§§2051-2058)"
+                            ],
+                            "title": "§2053 Expenses, indebtedness, and taxtes",
+                            "pageName": "2053.html"
+                        },
+                        {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle B - Estate and Gift Taxes (§§2001-2801)",
+                                "Chapter 11 - Estate Tax (§§2001-2210)",
+                                "Subchapter A - Estates of Citizens or Residents (§§2001-2058)",
+                                "Part IV - Taxable Estate (§§2051-2058)"
+                            ],
+                            "title": "§2055 Transfers for public, charitable, and religious uses",
+                            "pageName": "2055.html"
+                        }
+                    ]
                 }
             },
             "Chapter 12 - Gift Tax": {
                 "Subchapter C - Deductions(§§2521-2524)": [
                     {
+                        "breadcrumb": [
+                            "Internal Revenue Code",
+                            "Subtitle B - Estate and Gift Taxes (§§2001-2801)",
+                            "Chapter 12 - Gift Tax",
+                            "Subchapter C - Deductions(§§2521-2524)"
+                        ],
                         "title": "[§2521 - Repealed]",
                         "pageName": "2521.html"
                     },
                     {
+                        "breadcrumb": [
+                            "Internal Revenue Code",
+                            "Subtitle B - Estate and Gift Taxes (§§2001-2801)",
+                            "Chapter 12 - Gift Tax",
+                            "Subchapter C - Deductions(§§2521-2524)"
+                        ],
                         "title": "§2522 - Charitable and similar gifts",
                         "pageName": "2522.html"
                     },
                     {
+                        "breadcrumb": [
+                            "Internal Revenue Code",
+                            "Subtitle B - Estate and Gift Taxes (§§2001-2801)",
+                            "Chapter 12 - Gift Tax",
+                            "Subchapter C - Deductions(§§2521-2524)"
+                        ],
                         "title": "§2523 - Gift to spouse",
                         "pageName": "2523.html"
                     },
                     {
+                        "breadcrumb": [
+                            "Internal Revenue Code",
+                            "Subtitle B - Estate and Gift Taxes (§§2001-2801)",
+                            "Chapter 12 - Gift Tax",
+                            "Subchapter C - Deductions(§§2521-2524)"
+                        ],
                         "title": "§2524 - Extent of deduction",
                         "pageName": "2524.html"
                     }
@@ -1063,6 +2401,13 @@
                 "Subchapter A - Returns and Records": {
                     "Part III - Information Returns": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle F - Procedure and Administration (§§6001-7874)",
+                                "Chapter 61 - Information and Returns",
+                                "Subchapter A - Returns and Records",
+                                "Part III - Information Returns"
+                            ],
                             "title": "§6033 - Returns by exempt organizations",
                             "pageName": "6033.html"
                         }
@@ -1073,16 +2418,37 @@
                 "Subchapter A - Additions to the Tax and Additional Amounts (§§6651-6725)": {
                     "Part I - General Provisions (§§6651–6659_to_6661)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle F - Procedure and Administration (§§6001-7874)",
+                                "Chapter 68 - Additions to the tax, additional amounts, and assessable penalties (§§6651-6751)",
+                                "Subchapter A - Additions to the Tax and Additional Amounts (§§6651-6725)",
+                                "Part I - General Provisions (§§6651–6659_to_6661)"
+                            ],
                             "title": "§6655 - Failure by corporation to pay estimated income tax",
                             "pageName": "6655.html"
                         }
                     ],
                     "Part II - Accuracy-Related and Fraud Penalties (§§6662-6664)": [
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle F - Procedure and Administration (§§6001-7874)",
+                                "Chapter 68 - Additions to the tax, additional amounts, and assessable penalties (§§6651-6751)",
+                                "Subchapter A - Additions to the Tax and Additional Amounts (§§6651-6725)",
+                                "Part II - Accuracy-Related and Fraud Penalties (§§6662-6664)"
+                            ],
                             "title": "§6662. Imposition of accuracy-related penalty on underpayments",
                             "pageName": "6662.html"
                         },
                         {
+                            "breadcrumb": [
+                                "Internal Revenue Code",
+                                "Subtitle F - Procedure and Administration (§§6001-7874)",
+                                "Chapter 68 - Additions to the tax, additional amounts, and assessable penalties (§§6651-6751)",
+                                "Subchapter A - Additions to the Tax and Additional Amounts (§§6651-6725)",
+                                "Part II - Accuracy-Related and Fraud Penalties (§§6662-6664)"
+                            ],
                             "title": "§6663. Imposition of fraud penalty",
                             "pageName": "6363.html"
                         }
@@ -1094,6 +2460,10 @@
     "FASB Codification": {
         "Notice to Constituents": [
             {
+                "breadcrumb": [
+                    "FASB Codification",
+                    "Notice to Constituents"
+                ],
                 "title": "Notice to Constituents - About the Codification ",
                 "pageName": "1_1.html"
             }
@@ -1102,6 +2472,12 @@
             "210 - Balance Sheet": {
                 "10 - Overall": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Presentation",
+                            "210 - Balance Sheet",
+                            "10 - Overall"
+                        ],
                         "title": "45 - Other Presentation Matters",
                         "pageName": "2_0_0_0.html"
                     }
@@ -1110,6 +2486,12 @@
             "225 - Income Statement": {
                 "20 - Extraordinary and Unusual Items": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Presentation",
+                            "225 - Income Statement",
+                            "20 - Extraordinary and Unusual Items"
+                        ],
                         "title": "45 - Other  Presentation Matters - General",
                         "pageName": "2_1_1_1.html"
                     }
@@ -1118,18 +2500,42 @@
             "230 - Statement of Cash Flows": {
                 "10 - Overall": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Presentation",
+                            "230 - Statement of Cash Flows",
+                            "10 - Overall"
+                        ],
                         "title": "05 - Overview and Background - General",
                         "pageName": "2_2_1_1.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Presentation",
+                            "230 - Statement of Cash Flows",
+                            "10 - Overall"
+                        ],
                         "title": "10 - Objectives - General",
-                        "pageName": "2_2_1_3.html"
+                        "pageName": "2_2_1_2.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Presentation",
+                            "230 - Statement of Cash Flows",
+                            "10 - Overall"
+                        ],
                         "title": "15 - Scope and Scope Exceptions",
                         "pageName": "2_2_1_3.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Presentation",
+                            "230 - Statement of Cash Flows",
+                            "10 - Overall"
+                        ],
                         "title": "45 - Other Presentation Matters",
                         "pageName": "2_2_1_4.html"
                     }
@@ -1138,14 +2544,32 @@
             "250 - Accounting Changes and Error Corrections": {
                 "10 - Overall": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Presentation",
+                            "250 - Accounting Changes and Error Corrections",
+                            "10 - Overall"
+                        ],
                         "title": "05 - Overview and Background",
                         "pageName": "2_3_1_1.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Presentation",
+                            "250 - Accounting Changes and Error Corrections",
+                            "10 - Overall"
+                        ],
                         "title": "15 - Scope and Scope Exceptions",
                         "pageName": "2_3_1_2.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Presentation",
+                            "250 - Accounting Changes and Error Corrections",
+                            "10 - Overall"
+                        ],
                         "title": "45 - Other Presentation Matters",
                         "pageName": "2_3_1_3.html"
                     }
@@ -1154,10 +2578,22 @@
             "260 - Earnings Per Share": {
                 "10 - Overall": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Presentation",
+                            "260 - Earnings Per Share",
+                            "10 - Overall"
+                        ],
                         "title": "45 - Other Presentation Matters",
                         "pageName": "2_4_1_1.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Presentation",
+                            "260 - Earnings Per Share",
+                            "10 - Overall"
+                        ],
                         "title": "55 - Codification - Implementation - General",
                         "pageName": "2_4_1_2.html"
                     }
@@ -1168,22 +2604,46 @@
             "310 - Receivables": {
                 "10 - Overall": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Assets",
+                            "310 - Receivables",
+                            "10 - Overall"
+                        ],
                         "title": "05 - Overview and Background - General",
                         "pageName": "3_1_1_1.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Assets",
+                            "310 - Receivables",
+                            "10 - Overall"
+                        ],
                         "title": "35 - Subsequent Measurement - General",
                         "pageName": "3_1_1_2.html"
                     }
                 ],
                 "20 - Nonrefundable Fees and Other Costs": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Assets",
+                            "310 - Receivables",
+                            "20 - Nonrefundable Fees and Other Costs"
+                        ],
                         "title": "35 - Subsequent Measurements",
                         "pageName": "3_0_0_0.html"
                     }
                 ],
                 "40 - Troubled debt Restructuring by Creditors": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Assets",
+                            "310 - Receivables",
+                            "40 - Troubled debt Restructuring by Creditors"
+                        ],
                         "title": "50 - Disclosure",
                         "pageName": "3_1_2_1.html"
                     }
@@ -1192,10 +2652,22 @@
             "320 - Investments-Debt and Equity Securities": {
                 "10 - Overall": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Assets",
+                            "320 - Investments-Debt and Equity Securities",
+                            "10 - Overall"
+                        ],
                         "title": "35 - Subsequent Measurement",
                         "pageName": "3_2_1_1.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Assets",
+                            "320 - Investments-Debt and Equity Securities",
+                            "10 - Overall"
+                        ],
                         "title": "45 - Other Presentation Matters",
                         "pageName": "3_2_1_2.html"
                     }
@@ -1204,14 +2676,32 @@
             "330 - Inventory": {
                 "10 - Overall": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Assets",
+                            "330 - Inventory",
+                            "10 - Overall"
+                        ],
                         "title": "30 - Initial Measurement",
                         "pageName": "3_3_1_1.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Assets",
+                            "330 - Inventory",
+                            "10 - Overall"
+                        ],
                         "title": "35 - Subsequent Measurement",
                         "pageName": "3_3_1_2.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Assets",
+                            "330 - Inventory",
+                            "10 - Overall"
+                        ],
                         "title": "50 - Disclosure",
                         "pageName": "3_3_1_3.html"
                     }
@@ -1220,6 +2710,12 @@
             "350 - Intangibles - Goodwill and Other": {
                 "20 - Goodwill": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Assets",
+                            "350 - Intangibles - Goodwill and Other",
+                            "20 - Goodwill"
+                        ],
                         "title": "35 - Subsequent Measurement",
                         "pageName": "3_4_1_1.html"
                     }
@@ -1228,18 +2724,42 @@
             "360 - Property, Plant, and Equipment": {
                 "10 - Overall": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Assets",
+                            "360 - Property, Plant, and Equipment",
+                            "10 - Overall"
+                        ],
                         "title": "30 - Other Assets - Initial Measurement - General",
                         "pageName": "3_5_1_1.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Assets",
+                            "360 - Property, Plant, and Equipment",
+                            "10 - Overall"
+                        ],
                         "title": "35 - Subsequent Measurement",
                         "pageName": "3_5_1_2.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Assets",
+                            "360 - Property, Plant, and Equipment",
+                            "10 - Overall"
+                        ],
                         "title": "45 - Other Presentation Matters",
                         "pageName": "3_5_1_3.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Assets",
+                            "360 - Property, Plant, and Equipment",
+                            "10 - Overall"
+                        ],
                         "title": "50 - Disclosure",
                         "pageName": "3_5_1_4.html"
                     }
@@ -1250,10 +2770,22 @@
             "410 - Asset Retirement and Environmental Obligations - Asset Retirement Obligations": {
                 "20 - Accounting for Asset Retirement Obligations": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Liabilities",
+                            "410 - Asset Retirement and Environmental Obligations - Asset Retirement Obligations",
+                            "20 - Accounting for Asset Retirement Obligations"
+                        ],
                         "title": "15 - Scope and Scope Exceptions",
                         "pageName": "4_1_1_1.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Liabilities",
+                            "410 - Asset Retirement and Environmental Obligations - Asset Retirement Obligations",
+                            "20 - Accounting for Asset Retirement Obligations"
+                        ],
                         "title": "25 - Recognition",
                         "pageName": "4_1_1_2.html"
                     }
@@ -1262,6 +2794,12 @@
             "450 - Contingencies": {
                 "20 - Loss Contingencies": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Liabilities",
+                            "450 - Contingencies",
+                            "20 - Loss Contingencies"
+                        ],
                         "title": "25 - Recognition",
                         "pageName": "4_2_1_1.html"
                     }
@@ -1270,22 +2808,46 @@
             "470 - Debt": {
                 "10 - Overall": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Liabilities",
+                            "470 - Debt",
+                            "10 - Overall"
+                        ],
                         "title": "45 - Other Presentation Matters - General",
                         "pageName": "4_3_1_1.html"
                     }
                 ],
                 "20 - Extinguisments of Liabilities": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Liabilities",
+                            "470 - Debt",
+                            "20 - Extinguisments of Liabilities"
+                        ],
                         "title": "25 - Recognition",
                         "pageName": "4_3_2_1.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Liabilities",
+                            "470 - Debt",
+                            "20 - Extinguisments of Liabilities"
+                        ],
                         "title": "40 -Derecognition",
                         "pageName": "4_3_2_2.html"
                     }
                 ],
                 "50 - Modifications and Extinguishments": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Liabilities",
+                            "470 - Debt",
+                            "50 - Modifications and Extinguishments"
+                        ],
                         "title": "40 - Derecognition",
                         "pageName": "4_3_3_1.html"
                     }
@@ -1296,10 +2858,22 @@
             "505 - Equity": {
                 "30 - Treasury Stock": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Equity",
+                            "505 - Equity",
+                            "30 - Treasury Stock"
+                        ],
                         "title": "25 - Equity Recognition",
                         "pageName": "5_1_1_1.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Equity",
+                            "505 - Equity",
+                            "30 - Treasury Stock"
+                        ],
                         "title": "30 - Initial Measurement",
                         "pageName": "5_1_1_2.html"
                     }
@@ -1310,12 +2884,24 @@
             "605 - Revenue Recognition": {
                 "15 - Products": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Revenue",
+                            "605 - Revenue Recognition",
+                            "15 - Products"
+                        ],
                         "title": "25 - Recognition",
                         "pageName": "6_1_1_1.html"
                     }
                 ],
                 "35 - Construction-Type and Production-Type Contracts": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Revenue",
+                            "605 - Revenue Recognition",
+                            "35 - Construction-Type and Production-Type Contracts"
+                        ],
                         "title": "25 - Revenue Recognition",
                         "pageName": "6_1_2_1.html"
                     }
@@ -1324,30 +2910,72 @@
             "606 - Revenue from Contracts with Customers": {
                 "10 - Overall": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Revenue",
+                            "606 - Revenue from Contracts with Customers",
+                            "10 - Overall"
+                        ],
                         "title": "05 - Overview and Background - General",
                         "pageName": "6_2_1_1.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Revenue",
+                            "606 - Revenue from Contracts with Customers",
+                            "10 - Overall"
+                        ],
                         "title": "15 - Scope and Scope Exceptions",
                         "pageName": "6_2_1_2.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Revenue",
+                            "606 - Revenue from Contracts with Customers",
+                            "10 - Overall"
+                        ],
                         "title": "25 - Recognition",
                         "pageName": "6_2_1_3.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Revenue",
+                            "606 - Revenue from Contracts with Customers",
+                            "10 - Overall"
+                        ],
                         "title": "32 - Measurement",
                         "pageName": "6_2_1_4.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Revenue",
+                            "606 - Revenue from Contracts with Customers",
+                            "10 - Overall"
+                        ],
                         "title": "45 - Other Presentation Matters",
                         "pageName": "6_2_1_5.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Revenue",
+                            "606 - Revenue from Contracts with Customers",
+                            "10 - Overall"
+                        ],
                         "title": "50 - Disclosure",
                         "pageName": "6_2_1_6.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Revenue",
+                            "606 - Revenue from Contracts with Customers",
+                            "10 - Overall"
+                        ],
                         "title": "55 - Implementation Guidance and Illustrations",
                         "pageName": "6_2_1_7.html"
                     }
@@ -1358,10 +2986,22 @@
             "715 - Compensation - Retirement Benefits": {
                 "30 - Defined Benefit Plans - Pension": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Expenses",
+                            "715 - Compensation - Retirement Benefits",
+                            "30 - Defined Benefit Plans - Pension"
+                        ],
                         "title": "25 - Compensation Recognition",
                         "pageName": "7_1_1_1.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Expenses",
+                            "715 - Compensation - Retirement Benefits",
+                            "30 - Defined Benefit Plans - Pension"
+                        ],
                         "title": "35 - Subsequent Measurement",
                         "pageName": "7_1_1_2.html"
                     }
@@ -1370,12 +3010,24 @@
             "718 - Compensation - Stock Compensation": {
                 "50 - Employee Share Purchase Plans": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Expenses",
+                            "718 - Compensation - Stock Compensation",
+                            "50 - Employee Share Purchase Plans"
+                        ],
                         "title": "25 - Recognition",
                         "pageName": "7_2_2_1.html"
                     }
                 ],
                 "10 - Overall": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Expenses",
+                            "718 - Compensation - Stock Compensation",
+                            "10 - Overall"
+                        ],
                         "title": "25 - Recognition",
                         "pageName": "7_2_1_1.html"
                     }
@@ -1384,14 +3036,32 @@
             "720 - Other Expenses": {
                 "15 - Start-Up Costs": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Expenses",
+                            "720 - Other Expenses",
+                            "15 - Start-Up Costs"
+                        ],
                         "title": "15 - Scope and Scope Exceptions",
                         "pageName": "7_3_1_1.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Expenses",
+                            "720 - Other Expenses",
+                            "15 - Start-Up Costs"
+                        ],
                         "title": "25 - Recognition",
                         "pageName": "7_3_1_2.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Expenses",
+                            "720 - Other Expenses",
+                            "15 - Start-Up Costs"
+                        ],
                         "title": "55 - Implementation Guidance and Illustrations",
                         "pageName": "7_3_1_3.html"
                     }
@@ -1400,14 +3070,32 @@
             "740 - Income Taxes": {
                 "10 - Overall": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Expenses",
+                            "740 - Income Taxes",
+                            "10 - Overall"
+                        ],
                         "title": "05 - Overview and Background",
                         "pageName": "7_4_1_1.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Expenses",
+                            "740 - Income Taxes",
+                            "10 - Overall"
+                        ],
                         "title": "30 - Initial Measurement",
                         "pageName": "7_4_1_2.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Expenses",
+                            "740 - Income Taxes",
+                            "10 - Overall"
+                        ],
                         "title": "35 - Subsequent Measurement",
                         "pageName": "7_4_1_3.html"
                     }
@@ -1418,20 +3106,44 @@
             "805 - Business Combinations": {
                 "10 - Overall": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "805 - Business Combinations",
+                            "10 - Overall"
+                        ],
                         "title": "25 - Recognition",
                         "pageName": "8_1_1_1.html"
                     }
                 ],
                 "30 - Goodwill or Gain from Bargain Purchase, Including Consideration Transferred": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "805 - Business Combinations",
+                            "30 - Goodwill or Gain from Bargain Purchase, Including Consideration Transferred"
+                        ],
                         "title": "25 - Recognition",
                         "pageName": "8_1_2_1.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "805 - Business Combinations",
+                            "30 - Goodwill or Gain from Bargain Purchase, Including Consideration Transferred"
+                        ],
                         "title": "30 - Initial Measurement",
                         "pageName": "8_1_2_2.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "805 - Business Combinations",
+                            "30 - Goodwill or Gain from Bargain Purchase, Including Consideration Transferred"
+                        ],
                         "title": "35 - Subsequent Measurement",
                         "pageName": "8_1_2_3.html"
                     }
@@ -1440,12 +3152,24 @@
             "815 - Derivatives and Hedging": {
                 "15 - Embedded Derivatives": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "815 - Derivatives and Hedging",
+                            "15 - Embedded Derivatives"
+                        ],
                         "title": "05 - 25 - Recognition",
                         "pageName": "8_2_1_1.html"
                     }
                 ],
                 "Hedging—General": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "815 - Derivatives and Hedging",
+                            "Hedging—General"
+                        ],
                         "title": "25 - Recognition",
                         "pageName": "8_2_2_1.html"
                     }
@@ -1454,6 +3178,12 @@
             "820 - Fair Value Measurement": {
                 "10 - Overall": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "820 - Fair Value Measurement",
+                            "10 - Overall"
+                        ],
                         "title": "50 - Disclosure",
                         "pageName": "8_3_1_1.html"
                     }
@@ -1462,34 +3192,224 @@
             "830 - Foreign Currency Matters": {
                 "10 - Overall": [
                     {
-                        "title": "50 - Disclosure",
-                        "pageName": "8_3_1_1.html"
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "830 - Foreign Currency Matters",
+                            "10 - Overall"
+                        ],
+                        "title": "45 - Other Presentation Matters",
+                        "pageName": "8_4_3_1.html"
                     }
                 ],
                 "20 - Foreign Currency Transactions": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "830 - Foreign Currency Matters",
+                            "20 - Foreign Currency Transactions"
+                        ],
                         "title": "45 - Other Presentation Matters",
                         "pageName": "8_4_1_1.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "830 - Foreign Currency Matters",
+                            "20 - Foreign Currency Transactions"
+                        ],
                         "title": "55 - Implementation Guidance and Illustrations",
                         "pageName": "8_4_1_2.html"
                     }
                 ],
                 "30 - Translation of Financial Statements": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "830 - Foreign Currency Matters",
+                            "30 - Translation of Financial Statements"
+                        ],
                         "title": "45 - Other Presentation Matters",
                         "pageName": "8_4_2_1.html"
                     }
                 ]
             },
-            "835 - Interest": {},
-            "842 - Leases": {}
+            "835 - Interest": {
+                "20 - Capitalization of Interest": [
+                    {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "835 - Interest",
+                            "20 - Capitalization of Interest"
+                        ],
+                        "title": "15 - Scope and Scope Exceptions",
+                        "pageName": "8_5_1_1.html"
+                    },
+                    {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "835 - Interest",
+                            "20 - Capitalization of Interest"
+                        ],
+                        "title": "50 - Disclosure",
+                        "pageName": "8_5_1_2.html"
+                    }
+                ]
+            },
+            "842 - Leases": {
+                "10 - Overall": [
+                    {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "842 - Leases",
+                            "10 - Overall"
+                        ],
+                        "title": "15 - Scope",
+                        "pageName": "8_6_1_1.html"
+                    }
+                ],
+                "20 - Lessee": [
+                    {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "842 - Leases",
+                            "20 - Lessee"
+                        ],
+                        "title": "25 - Recognition",
+                        "pageName": "8_6_1_2.html"
+                    },
+                    {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "842 - Leases",
+                            "20 - Lessee"
+                        ],
+                        "title": "30 - Initial Measurement",
+                        "pageName": "8_6_1_3.html"
+                    },
+                    {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "842 - Leases",
+                            "20 - Lessee"
+                        ],
+                        "title": "35 - Subsequent Measurement",
+                        "pageName": "8_6_1_4.html"
+                    },
+                    {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "842 - Leases",
+                            "20 - Lessee"
+                        ],
+                        "title": "40 - Derecognition",
+                        "pageName": "8_6_1_5.html"
+                    },
+                    {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "842 - Leases",
+                            "20 - Lessee"
+                        ],
+                        "title": "45 - Other Presentation Matters",
+                        "pageName": "8_6_1_6.html"
+                    },
+                    {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "842 - Leases",
+                            "20 - Lessee"
+                        ],
+                        "title": "50 - Disclosure",
+                        "pageName": "8_6_1_7.html"
+                    }
+                ],
+                "30 - Lessor": [
+                    {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "842 - Leases",
+                            "30 - Lessor"
+                        ],
+                        "title": "25 - Recognition",
+                        "pageName": "8_6_1_8.html"
+                    },
+                    {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "842 - Leases",
+                            "30 - Lessor"
+                        ],
+                        "title": "30 - Initial Measurement",
+                        "pageName": "8_6_1_9.html"
+                    },
+                    {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "842 - Leases",
+                            "30 - Lessor"
+                        ],
+                        "title": "35 - Subsequent Measurement",
+                        "pageName": "8_6_1_10.html"
+                    },
+                    {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "842 - Leases",
+                            "30 - Lessor"
+                        ],
+                        "title": "40 - Derecognition",
+                        "pageName": "8_6_1_11.html"
+                    },
+                    {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "842 - Leases",
+                            "30 - Lessor"
+                        ],
+                        "title": "45 - Other Presentation Matters",
+                        "pageName": "8_6_1_12.html"
+                    },
+                    {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Broad Transactions",
+                            "842 - Leases",
+                            "30 - Lessor"
+                        ],
+                        "title": "50 - Disclosure",
+                        "pageName": "8_6_1_13.html"
+                    }
+                ]
+            }
         },
         "Industry": {
             "944 - Financial Services - Insurance": {
                 "605 - Revenue Recognition": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Industry",
+                            "944 - Financial Services - Insurance",
+                            "605 - Revenue Recognitio"
+                        ],
                         "title": "45 - 25 - Recognition",
                         "pageName": "9_1_1_1.html"
                     }
@@ -1498,10 +3418,22 @@
             "954 - Health Care Entities": {
                 "210 - Balance Sheet": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Industry",
+                            "954 - Health Care Entities",
+                            "210 - Balance Sheet"
+                        ],
                         "title": "05 - 45 - Other Presentation Matters",
                         "pageName": "9_2_1_1.html"
                     },
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Industry",
+                            "954 - Health Care Entities",
+                            "210 - Balance Sheet"
+                        ],
                         "title": "50 - Disclosure",
                         "pageName": "9_2_1_2.html"
                     }
@@ -1510,18 +3442,36 @@
             "958 - Not-for- Profit Entities": {
                 "205 - Presentation of Financial Statements": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Industry",
+                            "958 - Not-for- Profit Entities",
+                            "205 - Presentation of Financial Statements"
+                        ],
                         "title": "45 Other Presentation Matters",
                         "pageName": "9_4_1_1.html"
                     }
                 ],
                 "605 Revenue Recognition": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Industry",
+                            "958 - Not-for- Profit Entities",
+                            "605 Revenue Recognition"
+                        ],
                         "title": "45 Other Presentation Matters",
                         "pageName": "revenue_recognition.html"
                     }
                 ],
                 "720 Other Expenses": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Industry",
+                            "958 - Not-for- Profit Entities",
+                            "720 Other Expenses"
+                        ],
                         "title": "45 Other Presentation Matters",
                         "pageName": "45_other.html"
                     }
@@ -1530,6 +3480,12 @@
             "985 - Software": {
                 "20 - Costs of Software to Be sold, Leased, or Marketed": [
                     {
+                        "breadcrumb": [
+                            "FASB Codification",
+                            "Industry",
+                            "985 - Software",
+                            "20 - Costs of Software to Be sold, Leased, or Marketed"
+                        ],
                         "title": "25 - Recognition",
                         "pageName": "9_3_1_1.html"
                     }
